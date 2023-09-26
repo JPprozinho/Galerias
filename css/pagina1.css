@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+    background-color: rgb(115, 115, 115);
+    border: 0px;
+    margin: 0px;
+}
+
+table{
+    width: 100vw;
+    height: 100vh;
+}
+
+td{
+    width: 12,5%;
+    height: 20%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#um{
+    background-image: url(../img/imagem1.jpg);
+    background-size: cover;
+}
+
+#dois{
+    background-image: url(../img/imagem2.jpg);
+    background-size: cover;
+}
+
+#tres{
+    background-image: url(../img/imagem3.jpg);
+    background-size: cover;
+}
+
+#quatro{
+    background-image: url(../img/imagem4.jpg);
+    background-size: cover;
+}
+
+#cinco{
+    background-image: url(../img/imagem5.jpg);
+    background-size: cover;
+}
+
+#seis{
+    background-image: url(../img/imagem6.jpg);
+    background-size: cover;
+    background-position-y: -40px;
+}
+
+#sete{
+    background-image: url(../img/imagem7.jpg);
+    background-size: cover;
+}
+
+#oito{
+    background-image: url(../img/imagem8.jpg);
+    background-size: cover;
+    background-position-x: -145px;
+}
+
+#nove{
+    background-image: url(../img/imagem22.jpg);
+    background-size: cover;
+}
+
+#dez{
+    background-image: url(../img/imagem10.jpg);
+    background-size: cover;
+    background-position-x: -40px;
+}
+
+#onze{
+    background-image: url(../img/imagem21.jpg);
+    background-size: cover;
+}
+
+#doze{
+    background-image: url(../img/imagem12.webp);
+    background-size: cover;
+    background-position-x: -14px;
+}
+
+#treze{
+    background-image: url(../img/imagem13.jpg);
+    background-size: cover;
+}
+
+#quatorze{
+    background-image: url(../img/imagem14.jpg);
+    background-size: cover;
+}
+
+#quinze{
+    background-image: url(../img/imagem15.jpg);
+    background-size: cover;
+}
+
+#dezeseis{
+    background-image: url(../img/imagem16.jpg);
+}
+
+#dezesete{
+    background-image: url(../img/imagem17.jpg);
+    background-size: cover;
+}
+
+#desoito{
+    background-image: url(../img/imagem18.jpg);
+    background-size: cover;
+}
+
+#dezenove{
+    background-image: url(../img/imagem19.jpg);
+    background-size: cover;
+}
+
+#vinte{
+    background-image: url(../img/imagem20.jpg);
+    background-size: cover;
+}
