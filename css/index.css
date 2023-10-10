@@ -19,7 +19,7 @@ a:hover {
 html,
 body {
     height: 100%;
-    background-color: #837dff;
+    background-image: linear-gradient(to right, #153878, #2f4e90, #4a64a9, #6479c1, #7e8fd9 );
 }
 
 body {
